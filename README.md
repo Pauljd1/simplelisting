@@ -1,31 +1,29 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Simple Article Listing | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-article-listing" target="_blank">Simple Article Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge 
+   <a href="https://devchallenges.io/challenge/simple-article-listing" target="_blank">Simple Article Listing</a> 
+   from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
-      Demo
-    </a>
+    <img src="https://i.ibb.co/9kyMgG9x/Screenshot-20250211-210802.png" alt="Screenshot">
+  </h3>
+  <h3>
+    <a href="https://simplelisting.netlify.app/">Demo</a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
-      Solution
-    </a>
+    <a href="https://simplelisting.netlify.app/">Solution</a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/simple-article-listing">
-      Challenge
-    </a>
+    <a href="https://devchallenges.io/challenge/simple-article-listing">Challenge</a>
   </h3>
 </div>
 
 
 
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
+
 
 
 ### What I learned
